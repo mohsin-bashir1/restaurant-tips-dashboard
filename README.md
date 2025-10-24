@@ -13,7 +13,6 @@
 - `workbook/Restaurant_Tips_Dashboard.xlsx` — interactive workbook (sample or full, see license/data notes).
 - `data/sample_restaurant_tips.csv` — sample dataset (if included).
 - `docs/screenshots/` — dashboard preview images.
-- `analysis/tips_analysis.ipynb` — optional analysis (Python) and model code.
 
 ## How to view
 1. Download workbook from `workbook/` or the Release assets.
@@ -27,4 +26,4 @@ Excel, PivotTables, Combo Boxes, Charts, Multiple Linear Regression, Correlation
 MIT License — see `LICENSE`.
 
 ## Contact
-Mohsin Bashir — [LinkedIn](https://www.linkedin.com/in/mohsinbashirnajar) | Email: your.email@example.com
+Mohsin Bashir — [LinkedIn](https://www.linkedin.com/in/mohsinbashirnajar)
