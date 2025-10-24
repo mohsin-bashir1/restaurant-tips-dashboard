@@ -2,6 +2,8 @@
 
 **Short summary:** Predicting restaurant tips using regression and interactive Excel dashboards. Analyzed tipping drivers and visualized behavioral patterns by gender and time.
 
+![Dashboard overview](docs/screenshots/restaurant-tips-dashboard.jpg)
+
 ## Project Highlights
 - **Dataset:** 242 restaurant transactions (cleaned; 2 duplicates removed).
 - **Analysis:** Correlation & regression; identified **Total Bill (r = 0.68)** and **Size (r = 0.49)** as top predictors.
